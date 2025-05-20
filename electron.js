@@ -6,3 +6,4 @@ app.whenReady().then(() => {
   app.quit(); // 바로 종료
 });
 //
+//
